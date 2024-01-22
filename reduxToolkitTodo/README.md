@@ -28,7 +28,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
   </Provider>
 );
-
+```
 
 # Redux Store and Reducers in Redux Toolkit
 
